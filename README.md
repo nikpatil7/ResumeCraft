@@ -43,9 +43,7 @@ ResumeCraft is a web-based application designed to help users create professiona
 
 Below is a sample resume generated using ResumeCraft:
 
-[View Sample Resume PDF](https://github.com/nikpatil04/ResumeCraft/blob/main/assets/Sample-Resume.pdf)
-
-
+[View Sample Resume PDF](https://github.com/nikpatil7/ResumeCraft/blob/main/assets/Sample-Resume.pdf)
 
 ## Customization
 
